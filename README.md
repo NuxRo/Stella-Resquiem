@@ -26,5 +26,6 @@ Download from http://li.nux.ro/download/ISO/Stella-Resquiem-7-x86_64.iso
 
 
 
-
+```
 * - Yeah, I like funky names
+```
