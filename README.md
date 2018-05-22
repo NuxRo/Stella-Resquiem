@@ -1,4 +1,5 @@
-# Stella-Resquiem
+# Stella Resquiem*
+
 Rescue Live image based on CentOS 7 x86_64 Live media.
 
 It includes loads of handy utils such as photorec, chntpw, megacli, r1soft and many more.
@@ -12,3 +13,18 @@ You'll end up with an ISO in the working directory.
 The kickstart is a bit stale, PRs welcome.
 
 Download from http://li.nux.ro/download/ISO/Stella-Resquiem-7-x86_64.iso
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* - Yeah, I like funky names
