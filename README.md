@@ -2,7 +2,7 @@
 
 Rescue Live image based on CentOS 7 x86_64 Live media.
 
-It includes loads of handy utils such as photorec, chntpw, megacli, r1soft and many more.
+It includes loads of handy utils such as photorec, chntpw, megacli, r1soft, hdsentinel and many more.
 
 It's as easy to build as:
 ```
