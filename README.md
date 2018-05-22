@@ -11,4 +11,4 @@ You'll end up with an ISO in the working directory.
 
 The kickstart is a bit stale, PRs welcome.
 
-Download from http://li.nux.ro/download/ISO/Stella-Resquiem-7-x86_64-20180522.iso
+Download from http://li.nux.ro/download/ISO/Stella-Resquiem-7-x86_64.iso
